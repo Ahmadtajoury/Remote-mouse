@@ -41,7 +41,7 @@ python remote_mouse.py
 Open the displayed IP address on any device connected to the same network.
 
 ## Future Improvements
-
+-Game mode for cloud gaming
 - HTTPS support
 - Authentication
 - File transfer
