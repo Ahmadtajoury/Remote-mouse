@@ -47,7 +47,7 @@ Open the displayed IP address on any device connected to the same network.
 - File transfer
 - Multi-monitor support
 - Clipboard sync
-
+![Screenshot](IMG_0612.PNG) 
 ## License
 
 MIT
